@@ -1,5 +1,10 @@
 # Flight Deck Interface Demo
 
+### 
+<img width="1365" height="629" alt="image" src="https://github.com/user-attachments/assets/4c19d9f6-daf5-41c5-8630-066005b9408e" />
+
+<img width="1458" height="941" alt="ytrrnek" src="https://github.com/user-attachments/assets/5b441aac-5bb9-4079-b26f-8c35f9c27adc" />
+
 ## Project Overview
 
 This project is an interactive demonstration of a modern flight deck interface, designed to showcase capabilities relevant to the Flight Deck. The application simulates key components of a commercial aircraft flight deck, including:
